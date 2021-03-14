@@ -1,1 +1,1 @@
-Dossier contenant les articles
+Dossier contenant les articles créés par le programme
